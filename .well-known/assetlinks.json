@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ir.mihanweb.keshavarz",
+        "sha256_cert_fingerprints": ["69:2A:33:5B:74:C1:73:FE:6B:C4:2C:54:07:98:C4:9F:6A:45:96:01:79:54:E0:2B:06:24:D0:A9:81:A0:7D:50"]
+      }
+    }]
